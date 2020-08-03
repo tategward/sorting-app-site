@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/soring-app-site/static/css/main.5f361e03.chunk.css",
+    "main.js": "/soring-app-site/static/js/main.b42c4fa8.chunk.js",
+    "main.js.map": "/soring-app-site/static/js/main.b42c4fa8.chunk.js.map",
+    "runtime-main.js": "/soring-app-site/static/js/runtime-main.80d41e33.js",
+    "runtime-main.js.map": "/soring-app-site/static/js/runtime-main.80d41e33.js.map",
+    "static/js/2.c3d05bfb.chunk.js": "/soring-app-site/static/js/2.c3d05bfb.chunk.js",
+    "static/js/2.c3d05bfb.chunk.js.map": "/soring-app-site/static/js/2.c3d05bfb.chunk.js.map",
+    "index.html": "/soring-app-site/index.html",
+    "precache-manifest.3805b97192fa417bcf5d4d6c8667ab2d.js": "/soring-app-site/precache-manifest.3805b97192fa417bcf5d4d6c8667ab2d.js",
+    "service-worker.js": "/soring-app-site/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/soring-app-site/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c3d05bfb.chunk.js.LICENSE.txt": "/soring-app-site/static/js/2.c3d05bfb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/soring-app-site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d41e33.js",
+    "static/js/2.c3d05bfb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b42c4fa8.chunk.js"
+  ]
+}
